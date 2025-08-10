@@ -2,17 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/39e1f199-089b-4123-bf50-e7d54c01a335
+**URL**:https://pyspark-opal.vercel.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/39e1f199-089b-4123-bf50-e7d54c01a335) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
